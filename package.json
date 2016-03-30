@@ -1,0 +1,21 @@
+{
+  "name": "hain-plugin-reddit",
+  "version": "0.1",
+  "description": "A simple reddit search plugin for Hain",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sethxd/hain-plugin-reddit.git"
+  },
+  "keywords": [
+    "hain0"
+  ],
+  "author": "sethxd",
+  "license": "MIT",
+  "hain": {
+    "prefix": "/r ",
+    "usage": "/r something",
+    "icon": "#fa fa-reddit-alien",
+    "redirect": "/r "
+  }
+}
