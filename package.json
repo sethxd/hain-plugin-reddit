@@ -1,6 +1,5 @@
 {
   "name": "hain-plugin-reddit",
-  "version": "0.1",
   "description": "A simple reddit search plugin for Hain",
   "main": "index.js",
   "repository": {
