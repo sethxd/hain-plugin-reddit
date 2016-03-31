@@ -1,5 +1,6 @@
 {
   "name": "hain-plugin-reddit",
+  "version": "1.0.0",
   "description": "A simple reddit search plugin for Hain",
   "main": "index.js",
   "repository": {
@@ -11,6 +12,10 @@
   ],
   "author": "sethxd",
   "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.6.1",
+    "request": "latest"
+  },
   "hain": {
     "prefix": "/r ",
     "usage": "/r something",
