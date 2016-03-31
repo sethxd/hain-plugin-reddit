@@ -15,7 +15,7 @@ Type this in the Hain input:
 
 ## Usage
 
-![Reddit plugin example]('hain-plugin-reddit-ex.gif')
+![Reddit plugin example](hain-plugin-reddit-ex.gif)
 
 Type /r followed by your search terms, then  select to search all of reddit or go directly to a subreddit:
 ```
