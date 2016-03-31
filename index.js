@@ -31,7 +31,7 @@ module.exports = (pluginContext) => {
           return {
             id: x.data.url,
             payload: 'subreddit',
-            title: x.data.url + ' - ' + x.data.subscribers + ' subscribers',
+            title: '<b>' + x.data.url + '</b> - <span style="color:blue; font-size:0.8em;">' + x.data.subscribers + ' subscribers</span>',
             desc: 'Go directly to the "' + x.data.display_name + '" subreddit.',
             icon: "#fa fa-sign-in"
           };
