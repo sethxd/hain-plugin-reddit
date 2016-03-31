@@ -3,8 +3,8 @@
 
 ## Changelog
 
-1.1.0 - Added subreddit listing in search results
-1.0.0 - Initial commit
+- 1.1.0 - Added subreddit listing in search results
+- 1.0.0 - Initial commit
 
 ## Install
 
