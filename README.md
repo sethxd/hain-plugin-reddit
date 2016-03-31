@@ -3,6 +3,7 @@
 
 ## Changelog
 
+- 1.1.1 - Added text styling and subscriber stats to subreddit listing
 - 1.1.0 - Added subreddit listing in search results
 - 1.0.0 - Initial commit
 
